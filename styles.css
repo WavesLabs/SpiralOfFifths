@@ -6,7 +6,7 @@ body {
 	align-items: center;
 	height: 100vh;
     background-color: rgb(27, 27, 27);
-	overflow: hidden; /* Prevent scrolling */
+	overflow: hidden; 
 }
     
 #spiral-image {
